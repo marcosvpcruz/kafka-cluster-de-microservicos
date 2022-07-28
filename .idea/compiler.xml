@@ -22,6 +22,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="emailservice" target="12" />
+      <module name="service-http-ecommerce" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>
